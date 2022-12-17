@@ -16,7 +16,8 @@ For reference you can find all the instractions and constraints of the project i
 1. Open the terminal in the mmn14 folder and use the make command  
 2. ObjectFiles folder and Final_Project folder will appear  
 3. Navigate with the terminal to the final_project folder  
-4. The argument file needs to be in the mmn14 folder I made 2 test files in the TestFile folder you can copy one of them into the mmn14 folder for use or use your own  5. Now in the terminal enter the command ./FINAL_PROJECT (filename without the extent)  
+4. The argument file needs to be in the mmn14 folder I made 2 test files in the TestFile folder you can copy one of them into the mmn14 folder for use or use your own
+5. Now in the terminal enter the command ./FINAL_PROJECT (filename without the extent)  
 6. After a seccsessful run the output files will be in the mmn14 folder  
 
 -----------------------------------------------------------------
